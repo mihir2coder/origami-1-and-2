@@ -1,0 +1,15 @@
+.row1{
+        display:flex;
+        justify-content: space-evenly ;
+        }
+
+.camel{
+    display:flex;
+    justify-content: center;
+}
+
+.head{
+    display:flex;
+    justify-content: center;
+    color:hsl(0, 72%, 50%)
+}
